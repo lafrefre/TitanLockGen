@@ -28,6 +28,14 @@ Currently, there is an issue where the generated password might not update succe
 
 Feel free to contribute to the project by addressing the known issues, improving the code, or enhancing the user interface. Fork the repository, make your changes, and submit a pull request.
 
+## GitHub Repository
+https://github.com/lafrefre/TitanLockGen
+
+Live link - 
+
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
